@@ -1,4 +1,4 @@
-# C# SDK Alpha
+# C# DOTNET CORE SDK Alpha
 
 * [Website](https://www.moltin.com)
 * [License](https://github.com/moltin/csharp-sdk/master/LICENSE)
@@ -16,10 +16,11 @@ The package is published via Nuget.
 
 ## Usage
 
-Please take a look at the Samples folder:
+The Samples folder has .NET Core projects. I am going to include a docker file in the publish folder of each probject so that anyone can run the application. The docker image will be the [official dotnet core running on Linux](https://store.docker.com/community/images/microsoft/dotnet).
 
 /Samples/AspNet-Mvc<br/>
 /Samples/Nancyfx - Note: Nancyfx dotnet core is still in beta (Nancy 2.0.0-clinteastwood)
+
 
 ## Contributing
 
