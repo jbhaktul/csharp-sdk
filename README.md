@@ -7,18 +7,19 @@
 The Moltin csharp-sdk is an interface for the API to help you create an eCommerce ASP.NET web application.
 
 ## Installation
-Reference the dotnet core package in your csproj file:
+Reference the Moltin dotnet core package in your csproj file:
 
-<PackageReference Include="Moltin" Version="*"/>
+> `<PackageReference Include="Moltin" Version="*"/>`
 
-The package will be published via Nuget.
+The package is published via Nuget.
+
 
 ## Usage
 
 Please take a look at the Samples folder:
 
-/Samples/AspNet-Mvc
-/Samples/Nancyfx - Note: Nancyfx is still in beta (Nancy 2.0.0-clinteastwood)
+/Samples/AspNet-Mvc<br/>
+/Samples/Nancyfx - Note: Nancyfx dotnet core is still in beta (Nancy 2.0.0-clinteastwood)
 
 ## Contributing
 
