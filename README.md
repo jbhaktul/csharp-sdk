@@ -4,20 +4,21 @@
 * [License](https://github.com/moltin/csharp-sdk/master/LICENSE)
 * Version: dev
 
-The Moltin csharp-sdk is a simple to use interface for the API to help you get off the ground quickly and efficiently.
+The Moltin csharp-sdk is an interface for the API to help you create an eCommerce ASP.NET web application.
 
 ## Installation
-Download and compile the DLL using the included project or use the pre-built version found in Moltin/bin/Release
+Reference the dotnet core package in your csproj file:
 
-Add the DLL as a reference in your project and in the top of your main class add:
+<PackageReference Include="Moltin" Version="*"/>
 
-``` c#
-using Moltin;
-```
+The package will be published via Nuget.
 
 ## Usage
 
-Coming soon
+Please take a look at the Samples folder:
+
+/Samples/AspNet-Mvc
+/Samples/Nancyfx - Note: Nancyfx is still in beta (Nancy 2.0.0-clinteastwood)
 
 ## Contributing
 
