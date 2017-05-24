@@ -21,7 +21,7 @@ Samples for .NET Core web projects are coming soon. I am going to include a dock
 
 AspNet-core-mvc - [Coming Soon...](#)<br/>
 Nancyfx-core - [Coming Soon...](#)<br/>
-Note: Nancyfx dotnet core is still in beta (Nancy 2.0.0-clinteastwood)
+Note: Nancyfx dotnet core is still in beta ([Nancy 2.0.0-clinteastwood](https://www.nuget.org/packages/Nancy/))
 
 
 ## Contributing
