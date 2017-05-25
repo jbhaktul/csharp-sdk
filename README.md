@@ -1,8 +1,5 @@
-# C# DOTNET CORE SDK Alpha
+# <a href="https://www.moltin.com"><img src="https://docs.moltin.com/assets/img/logo.svg" height="80" style="max-width:100%;"/></a><span style="font-size:60px;font-weight:400;vertical-align:top;">  + .NET</span>
 
-* [Website](https://www.moltin.com)
-* [License](https://github.com/moltin/csharp-sdk/master/LICENSE)
-* Version: dev
 
 The Moltin csharp-sdk is an interface for the API to help you create an eCommerce ASP.NET web application.
 
@@ -37,4 +34,5 @@ Please see [CONTRIBUTING](https://github.com/moltin/csharp-sdk/blob/master/CONTR
 
 ## License
 
-Please see [License File](https://github.com/moltin/csharp-sdk/blob/master/LICENSE) for more information.
+* [License](https://github.com/moltin/csharp-sdk/master/LICENSE)
+* Version: Alpha
