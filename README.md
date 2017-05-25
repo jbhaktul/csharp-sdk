@@ -1,4 +1,5 @@
-# <a href="https://www.moltin.com"><img src="https://docs.moltin.com/assets/img/logo.svg" height="60" style="max-width:100%;"/></a>  + .NET
+# <a href="https://www.moltin.com"><img src="https://docs.moltin.com/assets/img/logo.svg" height="60" style="max-width:100%;"/></a><br/>
+# + .NET
 
 The Moltin csharp-sdk is an interface for the API to help you create an eCommerce ASP.NET web application.
 
